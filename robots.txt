@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yoshihide0430.github.io/sitemap.xml
